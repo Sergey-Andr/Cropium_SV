@@ -1,0 +1,16 @@
+{
+  "name": "cropium",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "start chrome C:\\ALLProjects\\cropium\\index.html",
+    "format": "prettier --write \"**/*.{html,css}\""
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.3.3"
+  }
+}
